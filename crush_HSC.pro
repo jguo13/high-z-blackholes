@@ -65,7 +65,7 @@ if i EQ 0 then lambda=4750e-10
 
 if i EQ 1 then lambda=1050e-10
 if i EQ 2 then lambda=7700e-10
-if i EQ 3 then lambda=8875e-10
+if i EQ 3 then lambda=9105e-10
 
 for h=0,ns-1 do begin
 ;check to see if there are flux values less than -99  because these
