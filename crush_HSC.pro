@@ -63,7 +63,7 @@ cdeltsquare= abs(cdelt)^2
 ;input in the wavelength of the bands in meters
 if i EQ 0 then lambda=4750e-10
 
-if i EQ 1 then lambda=1050e-10
+if i EQ 1 then lambda=10150e-10
 if i EQ 2 then lambda=7700e-10
 if i EQ 3 then lambda=9105e-10
 
